@@ -20,6 +20,3 @@ The goal of this lab was to set up a fully functional, cloud-hosted NoSQL databa
 - How Cloud Providers (AWS/GCP/Azure) manage the physical storage of our NoSQL data.
 - Importance of selecting a region close to the users to reduce latency.
 
-## 📸 Proof of Work
-![Cluster Overview](./screenshots/cluster-overview.png)
-![Deployment Status](./screenshots/deployment-complete.png)
